@@ -7,7 +7,7 @@ const About = () => {
       <div className="row contactus ">
         <div className="col-md-6 ">
           <img
-            src="/images/about.jpeg"
+            src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iAu65xDmvpVdBJgps6EDEw.png"
             alt="contactus"
             style={{ width: "100%" }}
           />
