@@ -7,7 +7,7 @@ const Contact = () => {
       <div className="row contactus ">
         <div className="col-md-6 ">
           <img
-            src="/images/contactus.jpeg"
+            src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201909/contact-details-3381225_1280.jpeg"
             alt="contactus"
             style={{ width: "100%" }}
           />
